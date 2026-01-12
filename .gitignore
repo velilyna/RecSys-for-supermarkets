@@ -1,0 +1,5 @@
+data/*.csv
+data/*.pt
+data/*.pkl
+
+.DS_Store
