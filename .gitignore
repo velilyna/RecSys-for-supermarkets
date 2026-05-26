@@ -1,5 +1,5 @@
-data/*.csv
-data/*.pt
-data/*.pkl
-
+.vscode/
+.refact/
 .DS_Store
+__pycache__/
+*.pyc
