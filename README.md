@@ -39,10 +39,3 @@ Models are evaluated using:
 The results show that models using explicit repeat-purchase information perform better for supermarket recommendation than pure generative modelling.
 
 The best top-10 recommendation quality is achieved by **SAFERec-AE**, while generative models produce more novel but less accurate recommendations.
-
-## Report
-
-The full report is available in:
-
-```text
-main.pdf
